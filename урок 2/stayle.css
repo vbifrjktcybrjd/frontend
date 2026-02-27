@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.product {
+    width: 300px;
+    border: 1px solid black;
+    padding: 16px;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px auto;
+}
+
+.product img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 12px;
+}
+
+.product h2 {
+    font-size: 24px;
+    margin-bottom: 8px;
+
+}
+
+.product p {
+    font-size: 16px;
+    margin-bottom: 12px;
+    color: #000;
+}
+
+.product span {
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+    display: block;
+    margin-bottom: 16px;
+}
+
+.product button {
+    width: 100%;
+    padding: 10px 16px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.product2 {
+    width: 350px;
+    padding: 10px;
+    border-radius: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.231);
+    background-color: lime;
+}
+
+.product2 img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    margin-bottom: 10px;
+}
+
+.product2 h2 {
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+
+.product2 p {
+    font-size: 16px;
+    margin-bottom: 12px;
+    color: #000;
+}
+
+.product2 span {
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+    display: block;
+    margin-bottom: 16px;
+}
+
+.product2 button {
+    width: 100%;
+    padding: 10px 16px;
+    font-size: 16px;
+    background-color: #9b6e21;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.product3 {
+    width: 450px;
+    padding: 10px;
+    border-radius: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.231);
+    background-color: #A9BBD9;
+}
+
+.product3 img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    margin-bottom: 10px;
+}
+
+.product3 h2 {
+    font-size: 24px;
+    margin-bottom: 8px;
+    color: #313C48;
+}
+
+.product3 p {
+    font-size: 16px;
+    margin-bottom: 12px;
+    color: #313C48;
+}
+
+.product3 span {
+    font-size: 18px;
+    font-weight: bold;
+    color: #313C48;
+    display: block;
+    margin-bottom: 16px;
+}
+
+.product3 button {
+    width: 100%;
+    padding: 10px 16px;
+    font-size: 16px;
+    background-color: #DC9955;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}

@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cart {
+    width: 300px;
+    height: 400px;
+    border: 1px black solid;
+    margin: 100px;
+    border-radius: 10px;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cart img {
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+}
+
+.cart p {
+    color: cadetblue;
+    padding:9px;
+}
+
+.a {
+    width: 100%;
+    border: none;
+    background-color: #6e8fd5;  
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 0 0 10px 10px; 
+    cursor: pointer;
+}
+
+.a:hover {
+    background-color: #92b2f7;
+}
+
+.new {
+    position: absolute;    
+    top: 10px;             
+    right: 10px;          
+    background-color: red;
+    color: white;
+    padding: 5px 10px;    
+    border-radius: 5px;  
+    border: none;
+    z-index: 1;         
+}

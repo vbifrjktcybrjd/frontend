@@ -10,10 +10,22 @@
     gap: 20px;
 }
 
-.grid{
+.grid {
     width: 300px;
     height: 300px;
     border-radius: 15px;
-    background-color: red;
-    
+}
+
+.q1 {
+    background-image: linear-gradient(to right, blue ,#770594)
+}
+
+.q2 {
+    background-image: linear-gradient(to right, rgb(255, 34, 89) ,#fffb29)
+
+}
+
+.q3 {
+    background-image: linear-gradient(to right, rgb(0, 157, 255) ,#54ce13)
+
 }
